@@ -7,6 +7,9 @@ echo "Où voulez-vous enregsitrer le projet?"
 read DIRECTORY
 
 #affichage dans le terminal "Quel est le nom de votre projet?"
+echo "Quel est le nom de votre projet?"
+
+#récupérer le nom du projet
 read PROJECT
 
 #se déplacer dans le dossier racine
